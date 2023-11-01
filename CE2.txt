@@ -1,0 +1,13 @@
+* CE2(Amazon Elastic Compute Cloud)
+
+
+*There is a ec2 instance service In AMAZON in ec2 we can launch a server and we can choose the configuration that we need .
+
+
+
+
+hello
+  
+
+
+hihihhihihihihihihihihihih
